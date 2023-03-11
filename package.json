@@ -33,7 +33,7 @@
     "bob-the-bundler": "5.0.1",
     "c8": "7.13.0",
     "check-code-coverage": "1.10.4",
-    "eslint": "8.34.0",
+    "eslint": "8.36.0",
     "husky": "8.0.3",
     "jsdom": "21.1.0",
     "prettier": "2.8.4",
